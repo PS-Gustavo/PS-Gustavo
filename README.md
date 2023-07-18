@@ -7,11 +7,12 @@ I am also learning rendering techniques and developing a modular graphics engine
 Please feel free to reach me at my [Linkedin](https://www.linkedin.com/in/grlopes/) page or my [e-mail](mailto:gustavo@punti.com.br).
 
 <a>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=PS-Gustavo&theme=dracula&show_icons=true&custom_title=Gustavo&count_private=true&rank_icon=github" />
+  <img flex=1 padding=16px src="https://github-readme-stats.vercel.app/api?username=PS-Gustavo&theme=dracula&show_icons=true&custom_title=Gustavo&count_private=true&rank_icon=github" />
 </a>
 <a>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PS-Gustavo&hide_progress=true&theme=dracula" />
-</a>
+  <img flex=2 padding=16px src="https://github-readme-stats.vercel.app/api/top-langs/?username=PS-Gustavo&hide_progress=true&theme=dracula" />
+</a>  
+
 
 <!--
 **PS-Gustavo/PS-Gustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
