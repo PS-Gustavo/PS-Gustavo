@@ -1,4 +1,14 @@
-### Hi there 👋
+Hi, welcome to my page.
+
+My primary role is working on automotive software development (at the application level) using AUTOSAR and Embedded Tools;
+
+I am also learning rendering techniques and developing a modular graphics engine as a hobby by using C++ and CMake;
+
+Please feel free to reach me at my [Linkedin](https://www.linkedin.com/in/grlopes/) page or my [e-mail](mailto:gustavo@punti.com.br).
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PS-Gustavo&theme=dark&show_icons=true&custom_title=Gustavo&count_private=true" />
+</p>
 
 <!--
 **PS-Gustavo/PS-Gustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
