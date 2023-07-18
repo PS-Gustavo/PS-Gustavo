@@ -7,7 +7,7 @@ I am also learning rendering techniques and developing a modular graphics engine
 Please feel free to reach me at my [Linkedin](https://www.linkedin.com/in/grlopes/) page or my [e-mail](mailto:gustavo@punti.com.br).
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PS-Gustavo&theme=dark&show_icons=true&custom_title=Gustavo&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=PS-Gustavo&theme=dracula&show_icons=true&custom_title=Gustavo&count_private=true" />
 </p>
 
 <!--
