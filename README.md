@@ -1,6 +1,6 @@
 Hi, welcome to my page.
 
-My primary role is working on automotive software development (at the application level) using AUTOSAR and Embedded Tools;
+My current primary role is working on automotive software development (at the application level) using AUTOSAR, MATLAB and Embedded Tools;
 
 I am also learning rendering techniques and developing a modular graphics engine as a hobby by using C++ and CMake;
 
