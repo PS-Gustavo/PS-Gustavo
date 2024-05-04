@@ -1,8 +1,10 @@
-Hi, welcome to my page.
+Hi, welcome to my Github page.
 
-My current primary role is working on automotive software development (at the application level) using AUTOSAR, MATLAB and Embedded Tools;
+I'm currently working on automotive software development (at the application level) using C/C++ under the AUTOSAR and Misra C methodologies. I also extensively use MATLAB and Embedded Tools;
 
-I am also learning rendering techniques and developing a modular graphics engine as a hobby by using C++ and CMake;
+I have a pet project named [Skelly](https://github.com/PS-Gustavo/RESkelly), which aims to provide a quick and simple rendering environment for graphical applications. It uses C++ and CMake for packaging.
+
+My current goal is to start more actively contributing towards FOSS projects and learn more towards Kernel or Compiler engineering.
 
 Please feel free to reach me at my [Linkedin](https://www.linkedin.com/in/grlopes/) page or my [e-mail](mailto:gustavo@punti.com.br).
 
