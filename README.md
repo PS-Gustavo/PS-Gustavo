@@ -1,12 +1,10 @@
 Hi, welcome to my Github page.
 
-I currently work on automotive software development (at the application level) using C/C++ under the AUTOSAR and Misra C methodologies. I also extensively use MATLAB and Embedded Tools;
+I currently work as a consultant to companies on the Adtech space. I work on core functionalities, bidding and serving ads by using C++ and Python accross different services.
 
-I have a pet project named [Skelly](https://github.com/PS-Gustavo/RESkelly), which aims to provide a quick and simple rendering environment for graphical applications. It uses C++ and CMake for packaging.
+I am returning to my pet project after a break, [Skelly](https://github.com/PS-Gustavo/RESkelly), which aims to provide a barebones environment for graphical applications.
 
-My current goal is to contribute more actively towards FOSS projects and learn more towards Kernel or Compiler engineering.
-
-Please feel free to reach me at my [Linkedin](https://www.linkedin.com/in/grlopes/) profile or my [e-mail](mailto:gustavo@punti.com.br).
+Feel free to reach me at my [Linkedin](https://www.linkedin.com/in/grlopes/) profile or my [e-mail](mailto:gustavo@punti.com.br).
 
 <a>
   <img flex=1 padding=16px src="https://github-readme-stats.vercel.app/api?username=PS-Gustavo&theme=dracula&show_icons=true&custom_title=Gustavo&count_private=true&rank_icon=github" />
